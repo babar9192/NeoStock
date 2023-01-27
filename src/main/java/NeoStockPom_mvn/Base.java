@@ -24,12 +24,11 @@ public class Base
 		driver.get(Utility.readDataFromPropertyFile("url"));
 		
 		Utility.implicitWait(1000, driver);
+		//commit
 		
 		Reporter.log("launching browser", true);
 		
-		//comments
 		
-		//comments
 	}
 	
 
