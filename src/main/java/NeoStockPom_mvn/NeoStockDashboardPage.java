@@ -45,7 +45,7 @@ public class NeoStockDashboardPage
 			Thread.sleep(1000);
 			popupOkButton.click();
 			Reporter.log("clicking on popup ok button", true);
-			Thread.sleep(1000);
+			Thread.sleep(3000);
 //			Utility.scrollIntoView(driver, popUpCloseButton);
 //			Thread.sleep(1000);
 //	        popUpCloseButton.click();
